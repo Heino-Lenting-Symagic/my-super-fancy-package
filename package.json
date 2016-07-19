@@ -1,0 +1,19 @@
+{
+  "name": "my-super-fancy-package",
+  "version": "1.0.0",
+  "description": "My super fancy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heino-Lenting-Symagic/my-super-fancy-package.git"
+  },
+  "author": "Heino Lenting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heino-Lenting-Symagic/my-super-fancy-package/issues"
+  },
+  "homepage": "https://github.com/Heino-Lenting-Symagic/my-super-fancy-package#readme"
+}
